@@ -16,4 +16,11 @@ Responsive Design: Optimized for  CUI ensuring a smooth experience on any device
 
 Message History: View previous messages in a conversation.
 
+License
 
+Distributed under the MIT License. See LICENSE.md (if you have one) for more information.
+
+contact:
+Nikhil Suryavanshi -nikhilsuryavanshi005@gmail.com
+
+Project Link: https://github.com/nikhilsuryavanshi0005/Chat-Messanger
